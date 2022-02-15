@@ -11,8 +11,7 @@ Window::Window()
 
 Window::~Window()
 {
-	// Cleanup done here.
-	m_window = nullptr; 
+	m_window = nullptr;
 	delete m_window;
 }
 
