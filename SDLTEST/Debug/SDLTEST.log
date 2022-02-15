@@ -1,2 +1,7 @@
 ﻿  main.cpp
+  window.cpp
+C:\Users\charl\source\repos\SDLTEST\SDLTEST\window.cpp(15,17): warning C4150: deletion of pointer to incomplete type 'SDL_Window'; no destructor called
+C:\Users\charl\source\repos\SDLTEST\SDLTEST\SDL2\SDL\include\SDL_video.h(90): message : see declaration of 'SDL_Window'
+  Generating Code...
+C:\Users\charl\source\repos\SDLTEST\SDLTEST\main.cpp(40): warning C4715: 'InitialiseSDL': not all control paths return a value
   SDLTEST.vcxproj -> C:\Users\charl\source\repos\SDLTEST\Debug\SDLTEST.exe
